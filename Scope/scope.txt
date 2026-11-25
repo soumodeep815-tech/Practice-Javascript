@@ -1,0 +1,19 @@
+
+
+Scope-->
+In js scope determine where variable,function and object are accesable and visible in our code.
+
+
+without refernce any variable , can not call any scope
+1.Block Scope 2. Global Scope 
+
+
+1.Block Scope---> Which  is inside a bracket,thats call Block Scope
+Ex-->
+{
+    let name="Soumodeep"
+}
+
+
+2.Global Scope---> Out side of bracket all are Global Scope
+var name="Alex"

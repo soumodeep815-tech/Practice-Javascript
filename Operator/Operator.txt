@@ -1,0 +1,9 @@
+
+
+Operator---> In js Operator are used to perform operation on Variable and value
+1.Arit5hmatic Operator 2.Assignment Operator 3.CXomparison Operator 4.Logical Operator 
+5.Bitwise Operator
+
+1.Arithmatic Operator-->
+   Addition,substraction, Multiplication, Division, Modulas,Increment ,Decrement
+   

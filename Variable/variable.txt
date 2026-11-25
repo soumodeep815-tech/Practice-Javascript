@@ -1,0 +1,26 @@
+Variable --> Variable like a container which store some data.
+var,let ,const
+
+Var-->
+1. Var was introduce in ES5 (2014).
+2.Variable decleare with var have Global Scope.
+3.Variable decleare with var can be enable redeclare in the same scope.
+Ex-->
+var user="alex";
+var user="Rodrigaze"
+
+
+Let-->
+1.let keword was introduce in ES6 (2015).
+2.Variable decleare with let have block scope.
+3.Variable declere with let can not redeclare in nsame scope.
+4.Variable declare with let can be re-assigned in the same scope
+EX-->
+let user="Soumodeep Mondal"
+let user1="Alex"
+
+
+Const-->
+1.Const keyword was introduce in ES6.
+2.Variable declare with const have block scope.
+3.Variable defined const can not be redeclare and reassigned.
